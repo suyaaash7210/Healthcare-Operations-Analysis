@@ -15,8 +15,8 @@ An interactive Power BI dashboard designed to visualize and analyze hospital inp
 The dashboard was built using the following tools and technologies:
 • 📊 **Power BI Desktop** – Primary platform for report building and visualization
 • 📂 **Power Query** – Used to clean, reshape, and transform raw hospital data
-• 🧠 **DAX (Data Analysis Expressions)** – For creating calculated columns and measures like admission trends, average stay duration, and department-level KPIs
-• 📝 **Data Modeling** – Relationships established across tables like patient logs, department info, and visit types for accurate filtering and aggregation
+• 🧠 **DAX (Data Analysis Expressions)** – For creating calculated columns and measures like admission trends, average stay duration, and         department-level KPIs
+• 📝 **Data Modeling** – Relationships established across tables like patient logs, department info, and visit types for accurate                 filtering and aggregation
 • 📁 **File Format** – `.pbix` for development; `.png` or `.gif` for dashboard previews/screenshots
 
 ---
@@ -61,4 +61,4 @@ To deliver an intuitive and interactive Power BI dashboard that:
 ---
 
 ## 6. 🖼️ Screenshots / Demos
-Example: ![Dashboard Preview](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
+Example: ![Dashboard Preview](https://github.com/suyaaash7210/Healthcare-Operations-Analysis/blob/main/Snapshot%20of%20Healthcare%20Operations%20Dashboard.PNG)
